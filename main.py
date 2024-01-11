@@ -49,7 +49,7 @@ if  question :
         st.header("Spam Email\n No summary is being generated.")
     else :
         #if NOT spam
-        st.header("Vaild or Ham Email\n Summary is being generated.")
+        st.header("Vaild Email\n Summary is being generated.")
         with st.spinner('Wait for Summaryy...'):
             API_URL = "https://api-inference.huggingface.co/models/facebook/bart-large-cnn"
             headers = {"Authorization": "Bearer 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"}
