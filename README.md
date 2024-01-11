@@ -49,7 +49,7 @@ To get started with EmailGPT, follow these simple steps:
   ```
 5.Access EmailGPT through your web browser at 
 ```
-http://localhost:8501/
+http://localhost:8501 or [link](https://spamemailgpt.streamlit.app/)
 ```
 
 
