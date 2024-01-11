@@ -1,6 +1,20 @@
 # EmailGPT
 EmailGPT is a powerful web application designed to streamline your email management by efficiently classifying emails into spam and ham. But that's not all – for legitimate emails (ham), EmailGPT goes the extra mile by providing concise and helpful summaries.
 
+## Access EmailGPT
+
+Experience the power of EmailGPT by accessing it through your web browser. Follow these steps:
+
+1. Ensure that you have cloned the repository and started the server as mentioned in the [Getting Started](#getting-started) section.
+
+2. Open your web browser and navigate to the following URL:
+
+   [EmailGPT](https://spamemailgpt.streamlit.app/)
+
+3. Begin exploring EmailGPT's features, from accurate email classification to automatic summarization for legitimate emails (ham).
+
+Feel free to customize EmailGPT according to your needs and manage your emails more efficiently!
+
 ## Features
 Email Classification: EmailGPT employs advanced machine learning algorithms to accurately classify incoming emails as either spam or ham.
 Summarization for Ham: For legitimate emails (ham), EmailGPT generates automatic summaries, saving you time and allowing for quick insights into the content.
