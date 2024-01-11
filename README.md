@@ -27,7 +27,7 @@ To get started with EmailGPT, follow these simple steps:
 ```
 3.Install the necessary dependencies:
   ```
-  npm install requirments.txt
+  pip install requirments.txt
   ```
 4.Start the server:
   ```
